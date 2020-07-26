@@ -1,0 +1,1 @@
+console.log("Sometimes we don't aware that it's raining somewhere.");
